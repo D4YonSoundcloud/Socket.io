@@ -1,0 +1,22 @@
+{
+  "name": "wspratice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "native-ws-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D4YonSoundcloud/Socket.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/D4YonSoundcloud/Socket.io/issues"
+  },
+  "homepage": "https://github.com/D4YonSoundcloud/Socket.io#readme",
+  "dependencies": {
+    "ws": "^7.3.0"
+  }
+}
