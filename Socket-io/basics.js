@@ -14,7 +14,7 @@ const io = socketio(server);
 
 io.on("connection", (socket, req) => {
   //ws.send becomes socket.emit
-  socket.emit('welcome', "Welcome to the websocket server!");
+  socket.emit('welcome',  "Welcome to the websocket server!");
   //no change here
   socket.on("message", (msg) => {
     console.log(msg);

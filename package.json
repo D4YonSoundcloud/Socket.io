@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/D4YonSoundcloud/Socket.io#readme",
   "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0",
     "ws": "^7.3.0"
   }
 }
